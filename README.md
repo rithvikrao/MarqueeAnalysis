@@ -1,6 +1,8 @@
 # Visualization and Analysis of Goldman Sachs Marquee Forecasting Data
 PennApps 2019
 
+**TL;DR** 5 years of GIR forecasting data is used to visualize 100 securities, analyze GS attributes against earnings call sentiment analysis, and k-means cluster securities post-dimensionality reduction.
+
 This project is composed of a series of Python scripts. It is divided into three components.
 
 1. **Visualization.** This script takes in a ticker symbol and a start and end date (within the 5-year range for which we have GIR data for), and plots the four provided GS metrics—financial returns, growth, multiple, and integrated—against each update within the specified time range. This allows visually developing a sense of change in forward-looking guidance for any particular security over any supported period of time. 

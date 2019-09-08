@@ -1,4 +1,4 @@
-# MarqueeAnalysis
+# Visualization and Analysis of GS Marquee Forecasting Data
 PennApps 2019
 
 This project is composed of a series of Python scripts. It is divided into three components.
